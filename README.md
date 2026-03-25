@@ -10,4 +10,13 @@ This repository contains solutions to the coding problems from [Striver's SDE Sh
 
 ## Contributing
 
-Feel free to add your solutions or improve existing ones!
+We welcome contributions! If you'd like to add solutions or improve existing ones, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch for your changes (`git checkout -b feature/add-solution-name`)
+3. Add your solution following the repository structure
+4. Commit your changes (`git commit -m "Add solution for problem X"`)
+5. Push to your branch (`git push origin feature/add-solution-name`)
+6. Create a Pull Request (PR) with a clear description of your changes
+
+Please ensure your code is well-commented and follows the existing style guidelines.
