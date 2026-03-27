@@ -2,5 +2,6 @@
 *.iml
 .DS_Store
 .ai/
+requirement.md
 
 java/target/

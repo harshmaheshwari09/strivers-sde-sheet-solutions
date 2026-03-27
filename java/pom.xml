@@ -26,8 +26,6 @@
     </dependencies>
 
     <build>
-        <sourceDirectory>src/main/java</sourceDirectory>
-        <testSourceDirectory>src/main/java</testSourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -36,9 +34,6 @@
                 <configuration>
                     <source>21</source>
                     <target>21</target>
-                    <excludes>
-                        <exclude>**/*Test.java</exclude>
-                    </excludes>
                 </configuration>
             </plugin>
             <plugin>

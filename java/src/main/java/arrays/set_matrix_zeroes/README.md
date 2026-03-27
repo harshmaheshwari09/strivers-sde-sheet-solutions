@@ -26,5 +26,5 @@ O(1) extra space (excluding the input matrix).
 ## Files
 
 - [Solution.java](Solution.java): Contains the main solution implementation.
-- [SolutionTest.java](../../../test/array/set_matrix_zeroes/SolutionTest.java): Contains test cases to verify the solution.
+- [SolutionTest.java](../../../test/java/arrays/set_matrix_zeroes/SolutionTest.java): Contains test cases to verify the solution.
 - [set-matrix-zeroes.md](set-matrix-zeroes.md): Detailed problem description.

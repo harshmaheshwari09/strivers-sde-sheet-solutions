@@ -1,4 +1,4 @@
-package array.set_matrix_zeroes;
+package arrays.set_matrix_zeroes;
 
 import java.util.Arrays;
 

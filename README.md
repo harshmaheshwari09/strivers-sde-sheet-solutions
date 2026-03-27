@@ -12,8 +12,7 @@ This repository contains solutions to the coding problems from [Striver's SDE Sh
 
 The Java solutions live under `java/`.
 
-- Main sources and problem docs: `java/src/main/array`
-- Tests: `java/src/test/array`
+- Solutions, tests, and problem docs: `java/src/main/java/arrays`
 - Build and test: `cd java && mvn test`
 
 ## Contributing
