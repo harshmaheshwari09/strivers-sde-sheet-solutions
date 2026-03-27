@@ -8,6 +8,14 @@ This repository contains solutions to the coding problems from [Striver's SDE Sh
 - Solutions will be provided in multiple programming languages (C++, Java, Python, etc.)
 - Include problem description, approach, and code
 
+## Java Setup
+
+The Java solutions live under `java/`.
+
+- Main sources and problem docs: `java/src/main/array`
+- Tests: `java/src/test/array`
+- Build and test: `cd java && mvn test`
+
 ## Contributing
 
 We welcome contributions! If you'd like to add solutions or improve existing ones, please follow these steps:
